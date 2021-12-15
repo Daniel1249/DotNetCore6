@@ -1,0 +1,1 @@
+Scaffold-DbContext 'Data Source=localhost;Initial Catalog=AdventureWorks;Trusted_Connection=True' Microsoft.EntityFrameworkCore.SqlServer
