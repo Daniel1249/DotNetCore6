@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dan\\source\\repos\\EFCore_DBLibrary\\EFCore_DBLibrary\\EFCore_DBLibrary.csproj": {}
+    "C:\\Code\\EFCore_DBLibrary\\EFCore_DBLibrary\\EFCore_DBLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dan\\source\\repos\\EFCore_DBLibrary\\EFCore_DBLibrary\\EFCore_DBLibrary.csproj": {
+    "C:\\Code\\EFCore_DBLibrary\\EFCore_DBLibrary\\EFCore_DBLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dan\\source\\repos\\EFCore_DBLibrary\\EFCore_DBLibrary\\EFCore_DBLibrary.csproj",
+        "projectUniqueName": "C:\\Code\\EFCore_DBLibrary\\EFCore_DBLibrary\\EFCore_DBLibrary.csproj",
         "projectName": "EFCore_DBLibrary",
-        "projectPath": "C:\\Users\\Dan\\source\\repos\\EFCore_DBLibrary\\EFCore_DBLibrary\\EFCore_DBLibrary.csproj",
+        "projectPath": "C:\\Code\\EFCore_DBLibrary\\EFCore_DBLibrary\\EFCore_DBLibrary.csproj",
         "packagesPath": "C:\\Users\\Dan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dan\\source\\repos\\EFCore_DBLibrary\\EFCore_DBLibrary\\obj\\",
+        "outputPath": "C:\\Code\\EFCore_DBLibrary\\EFCore_DBLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
